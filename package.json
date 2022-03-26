@@ -1,0 +1,20 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Projeto com node e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0",
+    "unsplash-js": "^7.0.15"
+  }
+}
